@@ -1,0 +1,8 @@
+pandas
+numpy
+nhl-api-py
+scikit-learn
+joblib
+xgboost
+matplotlib
+tqdm
