@@ -4,11 +4,14 @@ certifi==2025.11.12
 charset-normalizer==3.4.4
 comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
 contourpy==1.3.3
+cramjam==2.11.0
 cycler==0.12.1
 debugpy @ file:///home/task_176242086745011/conda-bld/debugpy_1762421636577/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1740384970518/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1756729339227/work
+fastparquet==2024.11.0
 fonttools==4.60.1
+fsspec==2025.10.0
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
@@ -38,6 +41,7 @@ prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolki
 psutil @ file:///home/task_176189642211680/conda-bld/psutil_1761896463664/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1733302279685/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=92c32ff62b5fd8cf325bec5ab90d7be3d2a8ca8c8a3813ff487a8d2002630d1f
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1733569405015/work
+pyarrow==22.0.0
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1750615794071/work
 pyparsing==3.2.5
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
